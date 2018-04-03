@@ -111,13 +111,13 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
      
       * Teniendo en cuenta lo trabajado el día de ayer, se decidió unir la solución de dos de las tres hojas del mural.
       
-       ![solucion-mural_redBus](assets/images/solucion-mural.jpg)
+    ![solucion-mural_redBus](assets/images/solucion-mural.jpg)
       
     2. Realizar el guión gráfico
     
       * Antes de prototipar, es necesario plasmar la solución y contarlo de manera fácil.
     
-       ![guion-grafico_redBus](assets/images/guion-grafico.jpg)
+    ![guion-grafico_redBus](assets/images/guion-grafico.jpg)
         
  ### DÍA 4
     
@@ -127,15 +127,15 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
  
     1. Realizar el prototipo en papel.
      
-      * Conociendo el guión gráfico, se pasa todas las actividades necesarias a la aplicación .
+      * Conociendo el guión gráfico, se pasa todas las actividades necesarias a la aplicación.
       
-       ![prototipo-paper_redBus](assets/images/prototipo-paper.jpg)
+    ![prototipo-paper_redBus](assets/images/prototipo-paper.jpg)
       
     2. Realizar el prototipo en alta fidelidad.
     
       * Se utilizó la herramienta Marvel.
     
-       ![prototipo-HD_redBus](assets/images/prototipo-alta-fidelidad.png)
+    ![prototipo-HD_redBus](assets/images/prototipo-alta-fidelidad.png)
         
       * Link del prototipo de alta fidelidad:  https://marvelapp.com/50dj9ih/screen/40527932
  
