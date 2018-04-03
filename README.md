@@ -20,6 +20,8 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
 
 2. Desarrollo del Design Sprint, en cinco días:
 
+![Design Sprint_redBus](assets/images/design-sprint2.png)
+
  ### DÍA 1
     
  #### Objetivo: Identificar el objetivo principal, que nos encaminará a la solución del reto.
@@ -64,20 +66,20 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
 ![BO_redBus](assets/images/mapa-proceso-rb-2.png)
 ![PE_redBus](assets/images/mapa-proceso-rb.png)
           
-    * Ideas básicas obtenidas, en forma de preguntas:
-        * ¿Cómo hacer para lograr mayor conversión de los pagos en efectivo, por parte de los usuarios?
-        * ¿Cómo lograr para que los usuarios luego de haber obtenido su CIP paguen inmediatamente en banca online o efectivo?
-        * ¿Cómo lograr para que los usuarios luego de haber obtenido su CIP paguen inmediatamente en banca online o efectivo?
+   * Ideas básicas obtenidas, en forma de preguntas:
+       * ¿Cómo hacer para lograr mayor conversión de los pagos en efectivo, por parte de los usuarios?
+       * ¿Cómo lograr para que los usuarios luego de haber obtenido su CIP paguen inmediatamente en banca online o efectivo?
+       * ¿Cómo lograr para que los usuarios luego de haber obtenido su CIP paguen inmediatamente en banca online o efectivo?
 
 8. How Migth We
       
     * Se realiza el HMW, colocando los post-its en diferentes lugares, para luego agruparlo según categorías:
       
-![HMW_redBus](assets/images/HowMigthWe.jpg)
+![HMW_redBus](assets/images/HowMigthWe.png)
       
-    * Posterior se votan por los HMW de preferencia, los cuales serán colocados en el mapa de proceso.
+   * Posterior se votan por los HMW de preferencia, los cuales serán colocados en el mapa de proceso.
       
-![mapa-HMW_redBus](assets/images/mapa-HMW.jpg)
+![mapa-HMW_redBus](assets/images/mapa-HMW.png)
 
 ### DÍA 2
     
@@ -89,7 +91,7 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
        
     * *Parecido al benchmark, con la diferencia de que se toman los productos o servicios para integrarlo en nuestro proyecto*
             
-![benchmark_redBus](assets/images/benchmark2.jpg)
+![benchmark_redBus](assets/images/benchmark2.png)
         
     * Posterior se votan por los HMW de preferencia, los cuales serán colocados en el mapa de proceso.
       
@@ -97,7 +99,7 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
     
     * Se realiza el desvarío en 8:
         
-![desvarioen8_redBus](assets/images/desvario-8.jpg)
+![desvarioen8_redBus](assets/images/desvario-8.png)
         
 3. Posterior se esboza soluciones, una en cada hoja.
     
@@ -125,7 +127,7 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
         - En el momento del encuentro: El Agente DeliBus escanea el código QR, para comenzar con la transacción, recibe el dinero, y automáticamente llega el boleto al cliente a la plataforma.
         - Luego del encuentro: El cliente descarga el boleto.
 
-![guion-grafico_redBus](assets/images/guion-grafico.jpg)
+![guion-grafico_redBus](assets/images/guion-grafico.png)
         
  ### DÍA 4
     
@@ -145,7 +147,7 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
     
 ![prototipo-HD_redBus](assets/images/prototipo-alta-fidelidad.png)
         
-    * Link del prototipo de alta fidelidad:  https://marvelapp.com/50dj9ih/screen/40527932
+   * Link del prototipo de alta fidelidad:  https://marvelapp.com/50dj9ih/screen/40527932
  
  ### DÍA 5
     
