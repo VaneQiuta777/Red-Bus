@@ -51,17 +51,18 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
    * ¿Existirá una solución de recaudar el 100% de los CIP generados por redBus?.
     
 6. Crear un mapa de procesos de redBus.
+   *Este mapa se obtuvo luego de recopilar información, en la pregunta a los expertos.*
     
-    ![Mapa de procesos_redBus](assets/images/mapa-procesos-Vane.png)
-       *Este mapa se obtuvo luego de recopilar información, en la pregunta a los expertos.*
+![Mapa de procesos_redBus](assets/images/mapa-procesos-Vane.png)
+       
     
 7. Preguntar a los expertos
       
     * Entrevista realizada a Juan Carbajal, gerente de IT de redBus, el día lunes 26 de marzo a las 11am, en sus propias instalaciones, se obtuvo:
     * Mapa de procesos de redBus, de pago online y pago efectivo:
 
-    ![BO_redBus](assets/images/mapa-proceso-rb-2.png)
-    ![PE_redBus](assets/images/mapa-proceso-rb.png)
+![BO_redBus](assets/images/mapa-proceso-rb-2.png)
+![PE_redBus](assets/images/mapa-proceso-rb.png)
           
     * Ideas básicas obtenidas, en forma de preguntas:
         * ¿Cómo hacer para lograr mayor conversión de los pagos en efectivo, por parte de los usuarios?
@@ -72,11 +73,11 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
       
     * Se realiza el HMW, colocando los post-its en diferentes lugares, para luego agruparlo según categorías:
       
-    ![HMW_redBus](assets/images/HowMigthWe.jpg)
+![HMW_redBus](assets/images/HowMigthWe.jpg)
       
     * Posterior se votan por los HMW de preferencia, los cuales serán colocados en el mapa de proceso.
       
-    ![mapa-HMW_redBus](assets/images/mapa-HMW.jpg)
+![mapa-HMW_redBus](assets/images/mapa-HMW.jpg)
 
 ### DÍA 2
     
@@ -88,7 +89,7 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
        
     * *Parecido al benchmark, con la diferencia de que se toman los productos o servicios para integrarlo en nuestro proyecto*
             
-    ![benchmark_redBus](assets/images/benchmark2.jpg)
+![benchmark_redBus](assets/images/benchmark2.jpg)
         
     * Posterior se votan por los HMW de preferencia, los cuales serán colocados en el mapa de proceso.
       
@@ -96,7 +97,7 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
     
     * Se realiza el desvarío en 8:
         
-    ![desvarioen8_redBus](assets/images/desvario-8.jpg)
+![desvarioen8_redBus](assets/images/desvario-8.jpg)
         
 3. Posterior se esboza soluciones, una en cada hoja.
     
@@ -112,19 +113,19 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
 1. Decidir las solución de nuestro proyecto.
      
     * Teniendo en cuenta lo trabajado el día de ayer, se decidió unir la solución de dos de las tres hojas del mural.
-    * Solución a proponer: "Diseñar un nuevo medio de pago: plataforma delivey - DeliBus"
+    * Solución a proponer: "Diseñar un nuevo medio de pago: plataforma Delivery - DeliBus"
       
-    ![solucion-mural_redBus](assets/images/solucion-mural.jpg)
+![solucion-mural_redBus](assets/images/solucion-mural.png)
       
 2. Realizar el guión gráfico
     
     * Antes de prototipar, es necesario plasmar la solución y contarlo de manera fácil.
     * Detalle del guión gráfico:
-    - Antes del encuentro: El cliente compra un pasaje por Delivery-DeliBus, redBus le solicita su ubicación o punto de encuentro para la transacción; posterior busca un agente DeliBus, indicándole el tiempo estimado de encuentro y envía un código QR al cliente.
-    - En el momento del encuentro: El Agente DeliBus escanea el código QR, para comenzar con la transacción, recibe el dinero, y automáticamente llega el boleto al cliente a la plataforma.
-    - Luego del encuentro: El cliente descarga el boleto.
+        -  Antes del encuentro: El cliente compra un pasaje por Delivery-DeliBus, redBus le solicita su ubicación o punto de encuentro para la transacción; posterior busca un agente DeliBus, indicándole el tiempo estimado de encuentro y envía un código QR al cliente.
+        - En el momento del encuentro: El Agente DeliBus escanea el código QR, para comenzar con la transacción, recibe el dinero, y automáticamente llega el boleto al cliente a la plataforma.
+        - Luego del encuentro: El cliente descarga el boleto.
 
-    ![guion-grafico_redBus](assets/images/guion-grafico.jpg)
+![guion-grafico_redBus](assets/images/guion-grafico.jpg)
         
  ### DÍA 4
     
@@ -136,13 +137,13 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
      
     * Conociendo el guión gráfico, se pasa todas las actividades necesarias a la aplicación.
       
-    ![prototipo-paper_redBus](assets/images/prototipo-paper.jpg)
+![prototipo-paper_redBus](assets/images/prototipo-paper.jpg)
       
 2. Realizar el prototipo en alta fidelidad.
     
     * Se utilizó la herramienta Marvel.
     
-    ![prototipo-HD_redBus](assets/images/prototipo-alta-fidelidad.png)
+![prototipo-HD_redBus](assets/images/prototipo-alta-fidelidad.png)
         
     * Link del prototipo de alta fidelidad:  https://marvelapp.com/50dj9ih/screen/40527932
  
