@@ -1,4 +1,4 @@
-# Empresa: "redBus"
+# Reto: "RED BUS"
 
 ![logo_redBus](assets/images/logo_redBus.jpg)
 
@@ -22,57 +22,58 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
 
  ### DÍA 1
     
- ##### Objetivo: Identificar el objetivo principal, que nos encaminará a la solución del reto.
+ #### Objetivo: Identificar el objetivo principal, que nos encaminará a la solución del reto.
  
- * Actividades:
+ Actividades:
 
-    1. Establecer una meta a largo plazo, "Empezar por el final":
+1. Establecer una meta a largo plazo, "Empezar por el final":
 
-      * Mejorar la experiencia del usuario al realizar el pago efectivo y banca online de pasajes en redBus.
+    * Mejorar la experiencia del usuario al realizar el pago efectivo y banca online de pasajes en redBus.
 
-    2. Identificar el objetivo N° 1, "¿Qué debe ser cierto?"
+2. Identificar el objetivo N° 1, "¿Qué debe ser cierto?"
 
-      * Disminuir los pasos de compra online y pago efectivo de los usuarios.
+    * Disminuir los pasos de compra online y pago efectivo de los usuarios.
 
-    3. Transformar las hipótesis y obstáculos en preguntas, objetivo N° 1, "¿Cómo podemos convertir esto a una pregunta?"
+3. Transformar las hipótesis y obstáculos en preguntas, objetivo N° 1, "¿Cómo podemos convertir esto a una pregunta?"
 
-      * ¿Somos capaces de disminuir los pasos de compra online y/o efectivo?.
-      * ¿Será una experiencia agradable del usuario, disminuir los pasos de compra online y/o efectivo?.
+    * ¿Somos capaces de disminuir los pasos de compra online y/o efectivo?.
+    * ¿Será una experiencia agradable del usuario, disminuir los pasos de compra online y/o efectivo?.
 
-    4. Identificar el objetivo N° 2, "¿Qué debe ser cierto?"
+4. Identificar el objetivo N° 2, "¿Qué debe ser cierto?"
 
-      * Recaudar el 100% de los CIP generados por redBus.
+    * Recaudar el 100% de los CIP generados por redBus.
       *Este objetivo se obtuvo luego de la pregunta a los expertos.*
     
-    5. Transformar las hipótesis y obstáculos en preguntas, objetivo N° 2, "¿Cómo podemos convertir esto a una pregunta?"
+5. Transformar las hipótesis y obstáculos en preguntas, objetivo N° 2, "¿Cómo podemos convertir esto a una pregunta?"
       
-      * ¿Cómo se puede recaudar el 100% de los CIP generados por redBus?.
-      * ¿Existirá una solución de recaudar el 100% de los CIP generados por redBus?.
+    * ¿Cómo se puede recaudar el 100% de los CIP generados por redBus?.
+    * ¿Existirá una solución de recaudar el 100% de los CIP generados por redBus?.
     
-    6. Crear un mapa de procesos de redBus.
+6. Crear un mapa de procesos de redBus.
     
-      ![Mapa de procesos_redBus](assets/images/mapa-procesos-Vane.jpg)
+      ![Mapa de procesos_redBus](assets/images/mapa-procesos-Vane.png)
        *Este mapa se obtuvo luego de recopilar información, en la pregunta a los expertos.*
     
-    7. Preguntar a los expertos
+7. Preguntar a los expertos
       
-      * Entrevista realizada a Juan Carbajal, gerente de IT de redBus, el día lunes 26 de marzo a las 11am, en sus propias instalaciones, se obtuvo:
-         * Mapa de procesos de redBus, de pago online y pago efectivo:
-          ![BO_redBus](assets/images/mapa-proceso-rb-2.jpg)
-          ![PE_redBus](assets/images/mapa-proceso-rb.jpg)
+    * Entrevista realizada a Juan Carbajal, gerente de IT de redBus, el día lunes 26 de marzo a las 11am, en sus propias instalaciones, se obtuvo:
+    * Mapa de procesos de redBus, de pago online y pago efectivo:
+
+      ![BO_redBus](assets/images/mapa-proceso-rb-2.jpg)
+      ![PE_redBus](assets/images/mapa-proceso-rb.jpg)
           
          * Ideas básicas obtenidas, en forma de preguntas:
            * ¿Cómo hacer para lograr mayor conversión de los pagos en efectivo, por parte de los usuarios?
            * ¿Cómo lograr para que los usuarios luego de haber obtenido su CIP paguen inmediatamente en banca online o efectivo?
            * ¿Cómo lograr para que los usuarios luego de haber obtenido su CIP paguen inmediatamente en banca online o efectivo?
 
-    8. How Migth We
+8. How Migth We
       
-      * Se realiza el HMW, colocando los post-its en diferentes lugares, para luego agruparlo según categorías:
+    * Se realiza el HMW, colocando los post-its en diferentes lugares, para luego agruparlo según categorías:
       
       ![HMW_redBus](assets/images/HowMigthWe.jpg)
       
-      * Posterior se votan por los HMW de preferencia, los cuales serán colocados en el mapa de proceso.
+    * Posterior se votan por los HMW de preferencia, los cuales serán colocados en el mapa de proceso.
       
       ![mapa-HMW_redBus](assets/images/mapa-HMW.jpg)
 
@@ -176,4 +177,4 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
    
 ## Feedback
 
-   * Link del prototipo final:  https://marvelapp.com/50dj9ih/screen/40527932
+   * Link del prototipo final:  https://marvelapp.com/50dj9ih/screen/40527149
