@@ -24,11 +24,12 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
     
  #### Objetivo: Identificar el objetivo principal, que nos encaminará a la solución del reto.
  
- Actividades:
+ #### Actividades:
 
 1. Establecer una meta a largo plazo, "Empezar por el final":
 
-    * Mejorar la experiencia del usuario al realizar el pago efectivo y banca online de pasajes en redBus.
+* Mejorar la experiencia del usuario al realizar el pago efectivo y banca online de pasajes en redBus.
+
 
 2. Identificar el objetivo N° 1, "¿Qué debe ser cierto?"
 
@@ -59,13 +60,13 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
     * Entrevista realizada a Juan Carbajal, gerente de IT de redBus, el día lunes 26 de marzo a las 11am, en sus propias instalaciones, se obtuvo:
     * Mapa de procesos de redBus, de pago online y pago efectivo:
 
-      ![BO_redBus](assets/images/mapa-proceso-rb-2.jpg)
-      ![PE_redBus](assets/images/mapa-proceso-rb.jpg)
+      ![BO_redBus](assets/images/mapa-proceso-rb-2.png)
+      ![PE_redBus](assets/images/mapa-proceso-rb.png)
           
-         * Ideas básicas obtenidas, en forma de preguntas:
-           * ¿Cómo hacer para lograr mayor conversión de los pagos en efectivo, por parte de los usuarios?
-           * ¿Cómo lograr para que los usuarios luego de haber obtenido su CIP paguen inmediatamente en banca online o efectivo?
-           * ¿Cómo lograr para que los usuarios luego de haber obtenido su CIP paguen inmediatamente en banca online o efectivo?
+    * Ideas básicas obtenidas, en forma de preguntas:
+        * ¿Cómo hacer para lograr mayor conversión de los pagos en efectivo, por parte de los usuarios?
+        * ¿Cómo lograr para que los usuarios luego de haber obtenido su CIP paguen inmediatamente en banca online o efectivo?
+        * ¿Cómo lograr para que los usuarios luego de haber obtenido su CIP paguen inmediatamente en banca online o efectivo?
 
 8. How Migth We
       
