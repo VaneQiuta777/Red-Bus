@@ -75,9 +75,9 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
       
     * Se realiza el HMW, colocando los post-its en diferentes lugares, para luego agruparlo según categorías:
       
-![HMW_redBus](assets/images/HowMigthWe.png)
+![HMW_redBus](assets/images/HMW.png)
       
-   * Posterior se votan por los HMW de preferencia, los cuales serán colocados en el mapa de proceso.
+* Posterior se votan por los HMW de preferencia, los cuales serán colocados en el mapa de proceso.
       
 ![mapa-HMW_redBus](assets/images/mapa-HMW.png)
 
@@ -145,9 +145,7 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
     
     * Se utilizó la herramienta Marvel.
     
-![prototipo-HD_redBus](assets/images/prototipo-alta-fidelidad.png)
-        
-   * Link del prototipo de alta fidelidad:  https://marvelapp.com/50dj9ih/screen/40527932
+![prototipo-HD_redBus](assets/images/prototipo-alta-fidelidad1.png)
  
  ### DÍA 5
     
@@ -158,20 +156,21 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
 1. Realizar entrevistas con el prototipo en marvel.
      
     * Se realiza el testeo del producto, con cuatro personas; quienes refieren:
+
     Participante 1:
-          - Mejorar las letras son muy pequeñas en relación a las primeras vistas.
-          - Se entiende el flujo de delivery.
-          - Usaría el servicio de delivery, aunque me sería más útil tener mejor contacto con mi agente de redBus, para contactar una horario que me convenga.
+     - Mejorar las letras son muy pequeñas en relación a las primeras vistas.
+     - Se entiende el flujo de delivery.
+     - Usaría el servicio de delivery, aunque me sería más útil tener mejor contacto con mi agente de redBus, para contactar una horario que me convenga.
         
     Participante 2:
-          - Me parece un buen producto, nunca usé redBus.
-          - La idea que alguien venga a entregarte el pasaje, me parece buena, ya no haría necesidad de ir a buscar un banco o agente.
+     - Me parece un buen producto, nunca usé redBus.
+     - La idea que alguien venga a entregarte el pasaje, me parece buena, ya no haría necesidad de ir a buscar un banco o agente.
         
     Participante 3:
-          - Se tiene que definir quién es el agente, es un tercero o una persona común y corriente.
+     - Se tiene que definir quién es el agente, es un tercero o una persona común y corriente.
           
     Participante 4:
-          - Tener cuidado con la interacción de opciones de pago, son radio buttons pero reaccionan como un select o un acordeon.
+     - Tener cuidado con la interacción de opciones de pago, son radio buttons pero reaccionan como un select o un acordeon.
         
 2. Determinar los aspectos para mejorar el producto. "Aprender"
     
