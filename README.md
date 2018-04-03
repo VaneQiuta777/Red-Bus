@@ -186,3 +186,4 @@ Brindar mayor conversión a las ventas realizadas en Pago Efectivo y Banca Onlin
 ## Feedback
 
    * Link del prototipo final:  https://marvelapp.com/50dj9ih/screen/40527149
+   * Link de las diapositivas a exponer: https://www.canva.com/design/DACz1kS-3Cc/2UgO21ysSdhYGVoigE4wLw/edit?category=tACZClZAsNk
